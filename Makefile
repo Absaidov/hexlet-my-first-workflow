@@ -1,2 +1,2 @@
 say-hello:
-		Hello,World!
+		@~/hexlet-my-first-workflow/HelloWorld.sh
